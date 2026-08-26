@@ -16,7 +16,7 @@ export default async function handler(req, res) {
   };
 
   try {
-    const response = await fetch('https://rtb.ringba.com/v1/production/720b79f59a9c4187aaf6565c339f0f6f.json', {
+    const response = await fetch('https://rtb.ringba.com/v1/production/959bd1a47a8e4f2ab577168a72d3cd36.json', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
